@@ -203,7 +203,7 @@
              &trans        &trans         &trans       &trans         &trans       &trans          &bootloader    &sys_reset     &trans        &trans        &trans        &trans
              &trans        &trans         &trans       &trans         &trans        &trans         &kp C_VOL_UP   &kp HOME     &kp PRINTSCREEN &kp PAGE_UP &kp SCROLLLOCK &kp CAPSLOCK
              &trans        &trans         &trans       &trans         &trans       &trans           &kp C_MUTE    &kp LEFT      &kp UP        &kp RIGHT    &kp INSERT        &trans
-             &trans        &trans        &trans        &trans          &trans       &trans           &kp C_VOL_DN   &kp END     &kp DOWN      &kp PAGE_DOWN  &kp PAUSE      &kp TILDE
+             &trans        &trans        &trans        &trans          &trans       &trans           &kp C_VOL_DN   &kp END     &kp DOWN      &kp PAGE_DOWN  &kp PAUSE_BREAK      &kp TILDE
                                                         &trans        &trans       &trans            &trans        &trans
                                                                       &trans       &trans            &trans
       >;
